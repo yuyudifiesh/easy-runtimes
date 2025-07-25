@@ -6,7 +6,7 @@
 【全中文输出交互友好】【傻瓜式安装有网就行】
 
 ## 按需下载
-- `2025.07.24` Git 安装脚本（下载后请解压）[V1.0](https://yuyudifiesh.github.io/easy-runtimes/downloads/git/v1_0.zip)
+- `2025.07.24` Git 安装脚本（下载后请解压）[V1.0](https://yuyudifiesh.github.io/easy-runtimes/downloads/git/V1_0.zip)
 - `2025.07.24` pnpm 安装脚本（下载后请解压）[V1.0](https://yuyudifiesh.github.io/easy-runtimes/downloads/npm/pnpmv1_0.zip)
   - 若未下载 Node.js 或者 npm ，脚本将自动下载并安装。
 
